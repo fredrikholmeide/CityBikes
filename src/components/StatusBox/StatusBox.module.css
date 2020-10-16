@@ -1,0 +1,11 @@
+.StatusBox {
+    width: 300px;
+    height: 200px;
+    font-family: "Arial";
+    text-align: center;
+    background-color: #80d0c7;
+    padding: 20px;
+    display: inline-grid;
+    border-radius: 20px;
+    margin: 40px;
+}
